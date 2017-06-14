@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+}
+button {
+    display: inline-block;
+    margin:1em;
+    color:black;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #6bc8ff;
+    border-color: #162117;
+}
+
+.header {
+    background-color:red;
+    text-align: center;
+    width: 100%;
+    height: 2em;
+
+}
+
+.navBar {
+
+    text-align: center;
+
+    color: Black;
+
+
+
+}
+
+#hulk {
+    background-color: rgb(69, 165, 116);
+    text-align: center;
+    width: 100%;
+    height: 2em;
+    background-image: url("http://wallpapercave.com/wp/YScFgwG.jpg");
+    background-position: 10% 50%;
+
+}
+
+#thor {
+    background-color:gold;
+    text-align: center;
+    width: 100%;
+    height: 2em;
+    background-image: url("http://wallpapercave.com/wp/53FwA9K.jpg");
+     background-position: 80% 25%;
+}
+
+ol {
+    list-style: none;
+}
+
+#spiderman {
+    background-color:gold;
+    text-align: center;
+    width: 100%;
+    height: 2em;
+    background-image: url("http://wallpapercave.com/wp/sD9Yvtt.jpg");
+     background-position: 50% 45%;
+     color:red;
+}
